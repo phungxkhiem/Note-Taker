@@ -4,7 +4,8 @@ My job for this assignment was to create a note taker on the backend. In this pr
 
 # Screenshots
 
-![App Screenshot](./img.png)
+![App Screenshot](./images/notetaker.png)
+![App Screenshot](./images/notertaker%202.png)
 
 
 ## Acceptance Criteria
