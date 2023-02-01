@@ -1,11 +1,11 @@
 # 11 Express.js: Note Taker
-My job for this assignment was to create a note taker on the backend. In this project I divided up the js files to create more of an organize way to interact with eachother. One challenge was correcting the paths to make sure the code was working.
+In this project I divided up the js files to create more of an organize way to interact with eachother. My job for this assignment was to create a note taker on the backend.  One challenge was correcting the paths to make sure the code was working.
 
 
 # Screenshots
 
 ![App Screenshot](./images/notetaker.png)
-![App Screenshot](./images/notertaker%202.png)
+![App Screenshot](./images/note%20taker%202.png)
 
 
 ## Acceptance Criteria
